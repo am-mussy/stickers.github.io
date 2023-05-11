@@ -1,0 +1,14 @@
+{
+  {
+            "companyName": 'ORACAL',
+            "code": '000',
+            "name": 'Прозрачный',
+            "price": 1500,
+        },
+        {
+            "companyName": 'ORACAL',
+            "code": '031',
+            "name": 'Красный',
+            "price": 2500,
+        }
+}
