@@ -1,14 +1,14 @@
 {
-  {
-            "companyName": 'ORACAL',
-            "code": '000',
-            "name": 'Прозрачный',
-            "price": 1500,
-        },
-        {
-            "companyName": 'ORACAL',
-            "code": '031',
-            "name": 'Красный',
-            "price": 2500,
-        }
+    "1": {
+        "companyName": "ORACAL",
+        "code": "000",
+        "name": "Прозрачный",
+        "price": 1500
+    },
+  "2": {
+        "companyName": "ORACAL",
+        "code": "001",
+        "name": "Прозрачный",
+        "price": 2500
+    }
 }
